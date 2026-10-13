@@ -1,0 +1,9 @@
+streamlit
+yt-dlp
+youtube-transcript-api
+scikit-learn
+pandas
+requests
+openai-whisper
+coqui-tts
+ffmpeg-python
